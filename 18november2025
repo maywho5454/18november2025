@@ -6246,6 +6246,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name="MY | Astro Badminton" tvg-logo="ttps://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",ASTRO BADMINTON
+##https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadminton.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadmintonB.m3u8
+
+
 ==================
 
 ---------NEW 3/6/2025
